@@ -162,7 +162,7 @@ h2 strong.sep-two {
 }
 
 #navcontainer {
-    height: 70px;
+    height: 100%;
 }
 
 #navcontainer ul {
@@ -180,7 +180,7 @@ h2 strong.sep-two {
     text-decoration: none;
     padding: .3em 2em;
     color: #fff;
-    background-color: #9eb4b9;
+    background-color: #c0ced1;
     border-radius: 10px;
 }
 
